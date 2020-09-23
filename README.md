@@ -1,4 +1,6 @@
-# vue-shopping-cart
+# Vue.js + Vuex Shopping Cart with Bootstrap
+
+Vue.js + Vuex Shopping Cart - This application features includes add-to-cart, remove and update cart items.
 
 ## Project setup
 ```

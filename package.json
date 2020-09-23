@@ -2,6 +2,9 @@
   "name": "vue-shopping-cart",
   "version": "0.1.0",
   "private": true,
+  "description": "Vue.js + Vuex Shopping Cart with Bootstrap",
+  "author": "Joshua Oweipadei Bayefa",
+  "license": "MIT",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
